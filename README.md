@@ -17,6 +17,9 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 
 ### Part 2: Finite element formulation for scalar field problems in multidimensions
 
-* `doing` by [soundsinteresting](https://github.com/soundsinteresting)
+* `two_dim_heat.py` by [soundsinteresting](https://github.com/soundsinteresting)
+
+    二维圆盘的热传导方程。
+    Heat equation for a 2d disk.
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
