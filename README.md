@@ -2,13 +2,14 @@
 
 有限元讨论班的代码。
 参考教材：Jacob Fish 和 Ted Belytschko 的《A First Course in Finite Elements》。
+您可以去 [b-ok.cc](https://b-ok.cc/)（可能需要翻墙）或者 [清华网盘](https://cloud.tsinghua.edu.cn/f/6449f1d74f9144b286d0/) 下载。
 
 Demo codes for FEM (Finite Element Method) workshop.
 We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belytschko.
 
 ### Part 1: Finite element formulation for one-dimensional problems
 
-* `Part1.ipynb` by Sun Youran
+* `Part1.ipynb` by [Sun Youran](https://github.com/WhymustIhaveaname)
 
     一维梁的拉伸（或压缩），截面均匀和不均匀情况。
     Tensile of 1D beams with uniform and non-uniform cross-section.
@@ -21,5 +22,7 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 
     二维圆盘的热传导方程。
     Heat equation for a 2d disk.
+    
+    视频讲解：[b站](https://www.bilibili.com/video/BV1VZ4y1f7wP)
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
