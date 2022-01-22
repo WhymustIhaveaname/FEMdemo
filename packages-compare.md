@@ -17,12 +17,12 @@
 
 * Votes from https://www.researchgate.net/post/What-is-the-best-finite-element-library-for-Python-programming-language
 
-Package|Votes
--------|-----
-SfePy  |+++
-PolyFem|+-+
-SciPy  |+
-FElupe |+
+    Package|Votes
+    -------|-----
+    SfePy  |+++
+    PolyFem|+-+
+    SciPy  |+
+    FElupe |+
 
 * [SfePy](https://sfepy.org/doc-devel/index.html) __very recommanded__
     * well documented, lots of examples and figures

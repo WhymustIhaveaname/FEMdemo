@@ -9,7 +9,7 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 
 ### Part 1: Finite element formulation for one-dimensional problems
 
-* `Part1.ipynb` by [Sun Youran](https://github.com/WhymustIhaveaname)
+* `Part1.ipynb`
 
     一维梁的拉伸（或压缩），截面均匀和不均匀情况。
     Tensile of 1D beams with uniform and non-uniform cross-section.
@@ -25,10 +25,17 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
     
     视频讲解：[b站](https://www.bilibili.com/video/BV1VZ4y1f7wP)
 
-* `Example8-2.ipynb` by [Sun Youran](https://github.com/WhymustIhaveaname)
+* `Example8-2.ipynb`
 
     参考教材的一道例题，四边形网格上的二维热传导方程，使用 [SymPy](www.sympy.org) 辅助推导。
     Example 8.2 of Fish's *A First Course in Finite Elements* in which a heat conduction problem with a single quadrilateral element is solved.
     [SymPy](www.sympy.org) is used for symbolic computations.
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
+
+### Miscellaneous
+
+* `packages-compare.md`
+
+    选择各种 Python 包的笔记。
+    Notes about choosing Python packages.
