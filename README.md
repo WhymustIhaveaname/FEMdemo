@@ -20,8 +20,8 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 
 * `two_dim_heat.py` by [soundsinteresting](https://github.com/soundsinteresting)
 
-    二维圆盘的热传导方程。
-    Heat equation for a 2d disk.
+    二维圆盘的热传导方程，三角网格。
+    Heat equation for a 2d disk with triangular mesh.
     
     视频讲解：[b站](https://www.bilibili.com/video/BV1VZ4y1f7wP)
 
@@ -30,6 +30,11 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
     参考教材的一道例题，四边形网格上的二维热传导方程，使用 [SymPy](www.sympy.org) 辅助推导。
     Example 8.2 of Fish's *A First Course in Finite Elements* in which a heat conduction problem with a single quadrilateral element is solved.
     [SymPy](www.sympy.org) is used for symbolic computations.
+
+* `Part2.ipynb`
+
+    二维热传导方程，四边形网格。
+    2D heat conduction with quadrilateral mesh.
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
 
