@@ -21,7 +21,7 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 * `Example8-1.ipynb`, `Example8-2.ipynb`
 
     参考教材的两道例题，三角形网格和四边形上的二维热传导方程，使用 [SymPy](www.sympy.org) 辅助推导。
-    Example 8.1 and 8.2 of Fish's *A First Course in Finite Elements* in which a heat conduction problem is solved using two triangular elements in Example 8.1 and a single quadrilateral element in Example 8.2.
+    Example 8.1 and 8.2 of Fish's *A First Course in Finite Elements* in which a heat conduction problem is solved.
     [SymPy](www.sympy.org) is used for symbolic computations.
 
     视频讲解：[b站](https://www.bilibili.com/video/BV1TR4y1T7R7/)
@@ -38,8 +38,18 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
     二维热传导方程，四边形网格。
     2D heat conduction with quadrilateral mesh.
 
+    视频讲解：[b站](https://www.bilibili.com/video/BV1JS4y1V7j5/)
+
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
+
+* doing by [soundsinteresting](https://github.com/soundsinteresting)
+
+    三维材料的形变
+
+* doing by [dashu233](https://github.com/dashu233)
+
+    纳维斯托克斯方程
 
 ### Miscellaneous
 
