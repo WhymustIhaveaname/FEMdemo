@@ -35,17 +35,18 @@ We are following *A First Course in Finite Elements* by Jacob Fish and Ted Belyt
 
 * `Part2.ipynb`
 
-    二维热传导方程，四边形网格。
-    2D heat conduction with quadrilateral mesh.
+    二维热传导方程，四边形网格。网格在 `square5x5.ply` 中。
+    2D heat conduction with quadrilateral mesh. One can find the mesh we used in `square5x5.ply`.
 
     视频讲解：[b站](https://www.bilibili.com/video/BV1JS4y1V7j5/)
 
 
 ### Part 3: Finite element formulation for vector field problems in two dimensions
 
-* doing by [soundsinteresting](https://github.com/soundsinteresting)
+* `Beam3D.py` and `Beam3D.ipynb` by [soundsinteresting](https://github.com/soundsinteresting)
 
-    三维材料的形变
+    三维杆的弯曲，三角形网格。网格数据在 `Beam.*.vtk` 中。
+    Bend of 3-dim beam with tetrahedron mesh. One can find the mesh we used in `Beam.*.vtk`.
 
 * doing by [dashu233](https://github.com/dashu233)
 
